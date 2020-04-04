@@ -7,21 +7,30 @@ sed -i "s/'/\\\'/g" "$_filename"
 ```
 
 # Vídeo do tutorial
-
-<iframe width="1244" height="700" src="https://www.youtube.com/embed/q-nDkg1PauE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# <https://youtu.be/q-nDkg1PauE>
 
 # Imagens geradas pelo app
 
 `my-code.py`
+
 ![alt](files/tmp.3andVpy223.png)
 
+---
+
 `main.cpp`
+
 ![alt](files/tmp.kiFZpf4GQz.png)
 
+---
+
 `routing.js`
+
 ![alt](files/tmp.T6tuw79cay.png)
 
+---
+
 `enable-cgi.sh`
+
 ![alt](files/tmp.9pFUJ6MYkU.png)
 
 # Interfaces
